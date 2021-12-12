@@ -4,7 +4,7 @@ You can contact me on [LinkedIn](https://www.linkedin.com/in/joe-wainer-67264078
 
 ## OpenWeatherMap API 
 
-This [API documentation](https://app.swaggerhub.com/apis-docs/Joe99/WeatherMapAPI/2.5) is built according to the OpenAPI 3.0 specification and written in YAML. I built this API as part of an online API documentation course. It's written and hosted on [SwaggerHub](https://swagger.io/). 
+This [API document](https://app.swaggerhub.com/apis-docs/Joe99/WeatherMapAPI/2.5) is built according to the OpenAPI 3.0 specification and written in YAML. I built this API as part of an online API documentation course. It's written and hosted on [SwaggerHub](https://swagger.io/). 
 
 With this API you can get: 
 * The current weather, daily forecast for 16 days, and a three-hour-interval forecast for 5 days for your city. 
