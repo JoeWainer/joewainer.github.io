@@ -14,9 +14,6 @@ With this API you can get:
 
 <a href="https://app.swaggerhub.com/apis-docs/Joe99/WeatherMapAPI/2.5"><img src="resources/Openweatherapi.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
 
-
-https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/
-
 ## Stripe Record Usage API 
 
 This [API document](https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/
