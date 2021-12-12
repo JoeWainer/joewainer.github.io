@@ -13,3 +13,16 @@ With this API you can get the current weather, daily forecast for 16 days, and a
 <a href="https://app.swaggerhub.com/apis-docs/Joe99/WeatherMapAPI/2.5"><img src="resources/Openweatherapi.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
 
 
+https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/
+
+## Stripe Record Usage API 
+
+This [API document](https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/
+) allows Stripe users to report customer usage and metrics to stripe for metered billing of subscription prices. 
+
+I wrote the API document as part of a course on OpenAPI specification and swagger. The goal was to recreate the [Record Usage section](https://stripe.com/docs/api/usage_records) fron Swipe's documenation in Swagger. 
+
+<a href="https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/"><img src="resources/recordusage.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
+
+
+
