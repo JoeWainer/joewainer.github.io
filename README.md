@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Joe Wainer Portfolio
 
-You can use the [editor on GitHub](https://github.com/JoeWainer/joewainer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! Thanks for checking out my portfolio. Below are my technical documenation projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can contact me on [LinkedIn](https://www.linkedin.com/in/joe-wainer-67264078/) or by email <hello@joewainer.com> 
 
 ### Markdown
 
