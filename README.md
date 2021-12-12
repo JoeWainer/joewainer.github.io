@@ -10,4 +10,4 @@ This [API documentation](https://app.swaggerhub.com/apis/Joe99/WeatherMapAPI/2.5
 
 With this API you can get the current weather, daily forecast for 16 days, and a three-hour-interval forecast for 5 days for your city. Helpful stats, graphics, and this day in history charts are available for your reference. Interactive maps show precipitation, clouds, pressure, wind around your location stations. Data is available in JSON, XML, or HTML format.
 
-<a href="https://app.swaggerhub.com/apis/Joe99/WeatherMapAPI/2.5/"><img src="resources/Openweatherapi%20swagger%20screenshot.png.PNG" style="box-shadow: 1px grey;"/></a>
+<a href="https://app.swaggerhub.com/apis/Joe99/WeatherMapAPI/2.5/"><img src="resources/Openweatherapi.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
