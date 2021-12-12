@@ -2,7 +2,7 @@ Hello! Thanks for visiting my portfolio. Below are my technical documentation pr
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/joe-wainer-67264078/) or by email: <hello@joewainer.com> 
 
-## OpenWeatherMap API 
+## Open Weather Map API 
 
 This [API document](https://app.swaggerhub.com/apis-docs/Joe99/WeatherMapAPI/2.5) is built according to the OpenAPI 3.0 specification and written in YAML. I built this API as part of an online API documentation course. It's written and hosted on [SwaggerHub](https://swagger.io/). 
 
