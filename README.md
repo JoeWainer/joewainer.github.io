@@ -30,6 +30,32 @@ This [API document](https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRe
 I wrote the API document as part of a course on OpenAPI specification and swagger. The project was to recreate the [Record Usage section](https://stripe.com/docs/api/usage_records) from Swipe's documenation. 
 
 <a href="https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/"><img src="resources/recordusage.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
+ 
+ ## Skills
+ 
+ - Read and write code samples in HTML, CSS, Flutter, SWIFT, JavaScript
+ - Work in Agile software development enviornments 
+ - Version control and collaboration tools; Monday, JIRA, MadCap Flare, GitHub
+ - Open tools; Swagger, Postman, OpenAPI
+
+## Education
+
+**Technical Writing Certificate @ Ourbestwords.com (in progress)**
+
+- Technical Communication Skills
+- Technical Communication Tools
+- Documenting Procedures
+- Editing and Writing for Localisation 
+- MadCap Flare
+
+**Completed Programming/API Technical Writing Courses @ Udemy.com**
+
+- Coding for Writers: Basic Programming (JavaScript)
+- The Art of API Documentation
+- Learn API Technical Writing: JSON and XML for writers
+- Learn API Technical Writing: REST for Writers
+
+**Ashmole Science Academy, London**
 
 
 
