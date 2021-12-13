@@ -18,7 +18,8 @@ With this API you can get:
 
 I wrote the code for a Therapist Bot as part of an online course in JavaScript, plus documentation detailing each function, constant and enumeration. 
 
-You can try the [working demo](https://joewainer.github.io/therapist-bot/) and [view the code on GitHub](https://github.com/JoeWainer/therapist-bot/blob/main/index.html). I created the document using Markdown. It's also available on GitHub. 
+You can try the [working demo](https://joewainer.github.io/therapist-bot/) and [view the code on GitHub](https://github.com/JoeWainer/therapist-bot/blob/main/index.html). I created the [document](https://github.com/JoeWainer/therapist-bot/blob/main/README.md) using Markdown.
+
 
 ## Stripe Record Usage API 
 
