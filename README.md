@@ -31,7 +31,7 @@ I wrote the API document as part of a course on OpenAPI specification and swagge
 
 <a href="https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/"><img src="resources/recordusage.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
  
- ## Skills
+## Skills
  
  - Read and write code samples in HTML, CSS, Flutter, SWIFT, JavaScript
  - Work in Agile software development enviornments 
