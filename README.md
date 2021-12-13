@@ -20,6 +20,7 @@ I wrote the code for a Therapist Bot as part of an online course in JavaScript, 
 
 You can try the [working demo](https://joewainer.github.io/therapist-bot/) and [view the code on GitHub](https://github.com/JoeWainer/therapist-bot/blob/main/index.html). I created the [document](https://github.com/JoeWainer/therapist-bot/blob/main/README.md) using Markdown.
 
+<a href="https://github.com/JoeWainer/therapist-bot/blob/main/README.md"><img src="resources/therapistbotdoc.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
 
 ## Stripe Record Usage API 
 
