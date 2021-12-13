@@ -14,6 +14,12 @@ With this API you can get:
 
 <a href="https://app.swaggerhub.com/apis-docs/Joe99/WeatherMapAPI/2.5"><img src="resources/Openweatherapi.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
 
+## Therapist Bot App and Documentation 
+
+I wrote the code for a Therapist Bot as part of an online course in JavaScript, plus documentation detailing each function, constant and enumeration. 
+
+You can try the [working demo](https://joewainer.github.io/therapist-bot/) and [view the code on GitHub](https://github.com/JoeWainer/therapist-bot/blob/main/index.html). I created the document using Markdown. It's also available on GitHub. 
+
 ## Stripe Record Usage API 
 
 This [API document](https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/
