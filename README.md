@@ -56,6 +56,8 @@ I wrote the API document as part of a course on OpenAPI specification and swagge
 - The Art of API Documentation
 - Learn API Technical Writing: JSON and XML for writers
 - Learn API Technical Writing: REST for Writers
+- Flutter Development Bootcamp with Dart
+- iOS & Swift: The Complete iOS App Development Bootcamp
 
 **Ashmole Science Academy, London**
 
