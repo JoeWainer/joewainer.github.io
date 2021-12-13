@@ -1,3 +1,5 @@
+## Bridging People and Technology
+
 Hello! Thanks for visiting my portfolio. Below are my technical documentation projects, skills, completed courses and education. 
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/joe-wainer-67264078/) or by email: <hello@joewainer.com> 
