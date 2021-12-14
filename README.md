@@ -18,7 +18,7 @@ With this API, you can get:
 
 ## Therapist Bot App and Documentation 
 
-I wrote the code for a Therapist Bot as part of an online course in JavaScript, plus documentation detailing each function, constant, and enumeration. 
+I wrote the code for a therapist bot as part of an online course in JavaScript, plus documentation detailing each function, constant, and enumeration. 
 
 You can try the [working demo](https://joewainer.github.io/therapist-bot/) and [view the code on GitHub](https://github.com/JoeWainer/therapist-bot/blob/main/index.html). I created the [document](https://github.com/JoeWainer/therapist-bot/blob/main/README.md) using Markdown.
 
@@ -29,7 +29,7 @@ You can try the [working demo](https://joewainer.github.io/therapist-bot/) and [
 This [API document](https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/
 ) allows Stripe users to report customer usage and metrics to stripe for metered billing of subscription prices. 
 
-I wrote the API document as part of a course on OpenAPI specification and swagger. The project was to recreate the [Record Usage section](https://stripe.com/docs/api/usage_records) from Swipe's documentation. 
+I wrote the API document as part of a course on OpenAPI specification and Swagger. The project was to recreate the [record usage section](https://stripe.com/docs/api/usage_records) from Swipe's documentation. 
 
 <a href="https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/"><img src="resources/recordusage.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
  
