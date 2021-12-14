@@ -38,7 +38,7 @@ I wrote the API document as part of a course on OpenAPI specification and Swagge
  - Read and write code samples in HTML, CSS, Flutter, SWIFT, JavaScript
  - Work in Agile software development environments 
  - Version control and collaboration tools; Monday, JIRA, MadCap Flare, GitHub
- - Open tools; Swagger, Postman, OpenAPI
+ - Open tools; Swagger, Postman, OpenAPI, Stoplight
 
 ## Education
 
