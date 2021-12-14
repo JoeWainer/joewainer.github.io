@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Portfolio
 description: Joe Wainer, Technical Writer
 logo: https://avatars.githubusercontent.com/u/91285524?v=4
-download: false
+download: true
