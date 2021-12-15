@@ -29,7 +29,7 @@ You can try the [working demo](https://joewainer.github.io/therapist-bot/) and [
 This [API document](https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/
 ) allows Stripe users to report customer usage and metrics to stripe for metered billing of subscription prices. 
 
-I wrote the API document as part of a course on OpenAPI specification and Swagger. The project was to recreate the [record usage section](https://stripe.com/docs/api/usage_records) from Swipe's documentation. 
+I wrote the API document as part of a course on OpenAPI specification and Swagger. The project was to recreate the [record usage section](https://stripe.com/docs/api/usage_records) from Stripe's documentation. 
 
 <a href="https://app.swaggerhub.com/apis-docs/JoeWainer/StripeUsageRecordsMock/2021-12-15/"><img src="resources/recordusage.png" style="box-shadow: 1px 1px 1px 1px black;"/></a>
  
