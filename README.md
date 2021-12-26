@@ -1,6 +1,6 @@
 ## Bridging People and Technology
 
-Hi, I'm Joe. A Technical Witer. My goal is to make technology easier for everyone to understand.
+Hi, I'm Joe. A Technical Writer. My goal is to make technology easier for everyone to understand.
 
 After years of writing reviews and content articles about tech, I decided it's time to start helping people by making technology more accessible. And the best way to do that was to become a Technical Writer. 
 
