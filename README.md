@@ -1,6 +1,10 @@
 ## Bridging People and Technology
 
-Hello! Thanks for visiting my portfolio. Below are my technical documentation projects, skills, completed courses, and education. 
+Hi, I'm Joe. A Technical wWiter, and my goal is to make technology easier for everyone to understand.
+
+After years of writing reviews and content articles about tech, I decided it's time to start helping people by making technology more accessible. And the best way to do that was to become a Technical Writer. 
+
+Below are my technical documentation projects, skills, completed courses, and education. 
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/joe-wainer-67264078/) or by email: <hello@joewainer.com> 
 
