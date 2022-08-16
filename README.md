@@ -44,7 +44,7 @@ I wrote the API document as part of a course on OpenAPI specification and Swagge
 
 ## Education
 
-**Technical Writing Certificate @ Ourbestwords.com (in progress)**
+**Technical Writing Certificate @ Ourbestwords.com**
 
 - Technical Communication Skills
 - Technical Communication Tools
